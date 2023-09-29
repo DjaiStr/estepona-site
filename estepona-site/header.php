@@ -21,7 +21,7 @@
                             <a class="nav-link" href="index.php" >Estepona</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Het</a>
+                            <a class="nav-link" href="#">Het...</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="#">Omgeving</a>
