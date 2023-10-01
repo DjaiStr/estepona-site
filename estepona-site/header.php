@@ -21,10 +21,10 @@
                             <a class="nav-link" href="index.php" >Estepona</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Het...</a>
+                            <a class="nav-link" href="appartement.php">Het appartement</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="#">Omgeving</a>
+                            <a class="nav-link" href="omgeving.php">Omgeving</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="contact.php">Contact</a>

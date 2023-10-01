@@ -124,8 +124,7 @@
     font-weight: 500 !important;
 }
 .navbar.bg-light {
-    background-color: rgba(171, 206, 255, 0.3) !important; /* Change to the color you want */
-    /* You can also customize other styles such as text color, padding, etc. here */
+    background-color: rgba(171, 206, 255, 0.3) !important; 
 }
 header {
     background-color: rgba(171, 206, 255, 0.7)

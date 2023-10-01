@@ -20,21 +20,21 @@
       </div>
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img src="random.jpg" class="d-block w-100" alt="random">
+          <img src="img/foto-slide1.jpg" class="d-block w-100" alt="random">
           <div class="carousel-caption d-none d-md-block">
             <h5>Firladsst slide label</h5>
             <p>Some representative placeholder content for the first slide.</p>
           </div>
         </div>
         <div class="carousel-item">
-          <img src="berg.jpg" class="d-block w-100" alt="...">
+          <img src="img/foto-uitzicht.jpg" class="d-block w-100" alt="...">
           <div class="carousel-caption d-none d-md-block">
             <h5>Second slide label</h5>
             <p>Some representative placeholder content for the second slide.</p>
           </div>
         </div>
         <div class="carousel-item">
-          <img src="land.jpg" class="d-block w-100" alt="...">
+          <img src="img/foto-groen.jpg" class="d-block w-100" alt="...">
           <div class="carousel-caption d-none d-md-block">
             <h5>Third slide label</h5>
             <p>Some representative placeholder content for the third slide.</p>
