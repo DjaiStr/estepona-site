@@ -217,7 +217,6 @@ svg:not(:root) {
     height: 3rem;
   }
   .feature.col {
-    border: 2px solid;
     padding: 10px;
   }
  

@@ -62,7 +62,7 @@
     </section>
     <?php include('feature-icons.php'); ?>
     <div class="container px-4 py-5" id="featured-3">
-      <div class="row g-4 py-5 row-cols-1 row-cols-lg-3">
+      <div class="row g-4 py-5 row-cols-1 row-cols-lg-4">
         <div class="feature col">
           <div class="feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3">
             <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-water" viewBox="0 0 16 16">
@@ -72,7 +72,7 @@
           <h3 class="fs-2">Zwembad</h3>
           <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
           <a href="#" class="icon-link d-inline-flex align-items-center">
-            Call to action
+            Bekijk hier
             <svg class="bi" width="1em" height="1em">
               <use xlink:href="#chevron-right" />
             </svg>
@@ -88,7 +88,20 @@
           <h3 class="fs-2">Wifi</h3>
           <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
           <a href="#" class="icon-link d-inline-flex align-items-center">
-            Call to action
+            Bekijk hier
+            <svg class="bi" width="1em" height="1em">
+              <use xlink:href="#chevron-right" />
+            </svg>
+          </a>
+        </div>
+        <div class="feature col">
+          <div class="feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3">
+          <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 640 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><style>svg{fill:#ffffff}</style><path d="M96 64c0-17.7 14.3-32 32-32h32c17.7 0 32 14.3 32 32V224v64V448c0 17.7-14.3 32-32 32H128c-17.7 0-32-14.3-32-32V384H64c-17.7 0-32-14.3-32-32V288c-17.7 0-32-14.3-32-32s14.3-32 32-32V160c0-17.7 14.3-32 32-32H96V64zm448 0v64h32c17.7 0 32 14.3 32 32v64c17.7 0 32 14.3 32 32s-14.3 32-32 32v64c0 17.7-14.3 32-32 32H544v64c0 17.7-14.3 32-32 32H480c-17.7 0-32-14.3-32-32V288 224 64c0-17.7 14.3-32 32-32h32c17.7 0 32 14.3 32 32zM416 224v64H224V224H416z"/></svg>
+          </div>
+          <h3 class="fs-2">Gym</h3>
+          <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
+          <a href="#" class="icon-link d-inline-flex align-items-center">
+            Bekijk hier
             <svg class="bi" width="1em" height="1em">
               <use xlink:href="#chevron-right" />
             </svg>
@@ -104,12 +117,13 @@
           <h3 class="fs-2">Beschikbaar</h3>
           <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
           <a href="#" class="icon-link d-inline-flex align-items-center">
-            Call to action
+            Bekijk hier
             <svg class="bi" width="1em" height="1em">
               <use xlink:href="#chevron-right" />
             </svg>
           </a>
         </div>
+        
       </div>
     </div>
 
