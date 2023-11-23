@@ -22,22 +22,22 @@
         <div class="carousel-item active">
           <img src="img/foto-slide1.jpg" class="d-block w-100" alt="random">
           <div class="carousel-caption d-none d-md-block">
-            <h5>Firladsst slide label</h5>
-            <p>Some representative placeholder content for the first slide.</p>
+            <h5>Las Mesas Esptepona</h5>
+            <p>vakantie appartementen complex met zwembad en workout area.</p>
           </div>
         </div>
         <div class="carousel-item">
           <img src="img/foto-uitzicht.jpg" class="d-block w-100" alt="...">
           <div class="carousel-caption d-none d-md-block">
-            <h5>Second slide label</h5>
-            <p>Some representative placeholder content for the second slide.</p>
+            <h5>Las Mesas Esptepona</h5>
+            <p>Met uitzicht op zee</p>
           </div>
         </div>
         <div class="carousel-item">
           <img src="img/woonkamer.jpg" class="d-block w-100" alt="...">
           <div class="carousel-caption d-none d-md-block">
-            <h5>Third slide label</h5>
-            <p>Some representative placeholder content for the third slide.</p>
+            <h5>Las Mesas Esptepona</h5>
+            <p>Net 2-kamer appartement volledig voorzien</p>
           </div>
         </div>
       </div>
@@ -52,9 +52,10 @@
     </div>
     <section class="py-5 text-center container">
       <div class="row py-lg-5">
-        <div class="col-lg-6 col-md-8 mx-auto">
-          <h1 class="">Header</h1>
-          <p class="lead text-muted">Something short and leading about the collection below—its contents, the creator, etc. Make it short and sweet, but not too short so folks don’t simply skip over it entirely.</p>
+        <div class="col-lg-10 col-md-4 mx-auto">
+          <h1 class="">Volledig 2-kamer appartement</h1>
+          <p class="lead text-muted">Ontdek de charme van dit fantastische appartement met twee slaapkamers twee badkamers waarvan een ensuite, gelegen op een bevoorrechte locatie nabij de belangrijkste winkel- en recreatiecentra. Met een comfortabele woonkamer biedt deze accommodatie ruimte voor maximaal 4 personen, waardoor het de perfecte plek is om te genieten van een vakantie met familie of vrienden.
+Dit is een nieuw gebouwde buurt(Las Mesas) gesitueerd iets boven de haven van Estepona. De oude binnenstad is ter voet te bereiken. Er zijn voldoende aansluitingen voor het openbaarvervoer. Zo is het niet nodig om een auto te huren als je bijvoorbeeld vliegt op Malaga airport.</p>
           <p>
           </p>
         </div>
@@ -70,13 +71,13 @@
             </svg>
           </div>
           <h3 class="fs-2">Zwembad</h3>
-          <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
-          <a href="#" class="icon-link d-inline-flex align-items-center">
+          <p>Het appartmentencomplex is voorzien van 2 buitenzwembaden(diep en ondiep)en binnen zwembad. Bij het zwembad zijn zonnebedden en parasols gratis beschikbaar.</p>
+         <!-- <a href="#" class="icon-link d-inline-flex align-items-center">
             Bekijk hier
             <svg class="bi" width="1em" height="1em">
               <use xlink:href="#chevron-right" />
             </svg>
-          </a>
+          </a>-->
         </div>
         <div class="feature col">
           <div class="feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3">
@@ -86,26 +87,26 @@
             </svg>
           </div>
           <h3 class="fs-2">Wifi</h3>
-          <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
-          <a href="#" class="icon-link d-inline-flex align-items-center">
+          <p>Het appartement beschikt over een goede wifi verbinding(5G) waardoor het ook mogelijk is om op afstand te werken.</p>
+         <!-- <a href="#" class="icon-link d-inline-flex align-items-center">
             Bekijk hier
             <svg class="bi" width="1em" height="1em">
               <use xlink:href="#chevron-right" />
             </svg>
-          </a>
+          </a>-->
         </div>
         <div class="feature col">
           <div class="feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3">
           <svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 640 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><style>svg{fill:#ffffff}</style><path d="M96 64c0-17.7 14.3-32 32-32h32c17.7 0 32 14.3 32 32V224v64V448c0 17.7-14.3 32-32 32H128c-17.7 0-32-14.3-32-32V384H64c-17.7 0-32-14.3-32-32V288c-17.7 0-32-14.3-32-32s14.3-32 32-32V160c0-17.7 14.3-32 32-32H96V64zm448 0v64h32c17.7 0 32 14.3 32 32v64c17.7 0 32 14.3 32 32s-14.3 32-32 32v64c0 17.7-14.3 32-32 32H544v64c0 17.7-14.3 32-32 32H480c-17.7 0-32-14.3-32-32V288 224 64c0-17.7 14.3-32 32-32h32c17.7 0 32 14.3 32 32zM416 224v64H224V224H416z"/></svg>
           </div>
           <h3 class="fs-2">Gym</h3>
-          <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
-          <a href="#" class="icon-link d-inline-flex align-items-center">
+          <p>Het appartmentencomplex beschikt over een fitnessruimte. Deze ruimte is gratis te gebruiken voor bewoners/huurder van het het appartement</p>
+          <!--<a href="#" class="icon-link d-inline-flex align-items-center">
             Bekijk hier
             <svg class="bi" width="1em" height="1em">
               <use xlink:href="#chevron-right" />
             </svg>
-          </a>
+          </a> -->
         </div>
         <div class="feature col">
           <div class="feature-icon d-inline-flex align-items-center justify-content-center text-bg-primary bg-gradient fs-2 mb-3">
@@ -115,9 +116,9 @@
             </svg>
           </div>
           <h3 class="fs-2">Beschikbaar</h3>
-          <p>Paragraph of text beneath the heading to explain the heading. We'll add onto it with another sentence and probably just keep going until we run out of words.</p>
-          <a href="#" class="icon-link d-inline-flex align-items-center">
-            Bekijk hier
+          <p>Is u interesse gewekt neem dan contact met ons op voor beschikbaarheid.</p>
+          <a href="contact.php" class="icon-link d-inline-flex align-items-center">
+            Neem contact op
             <svg class="bi" width="1em" height="1em">
               <use xlink:href="#chevron-right" />
             </svg>

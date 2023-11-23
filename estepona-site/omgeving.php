@@ -29,97 +29,45 @@
       <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
         <div class="col">
           <div class="card shadow-sm">
-            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-
+            <div class="image-container">
+              <img class="card-img-top image-popup" src="img/" alt="" id="image-popup">
+              <div class="overlay">
+                <div class="text" id="zoom-in-text-1">Zoom in</div>
+              </div>
+            </div>
             <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p class="card-text"></p>
               <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-                </div>
-                <small class="text-muted">9 mins</small>
               </div>
             </div>
           </div>
         </div>
         <div class="col">
           <div class="card shadow-sm">
-            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-
+            <div class="image-container">
+              <img class="card-img-top image-popup" src="img/" alt="" id="image-popup">
+              <div class="overlay">
+                <div class="text">Zoom in</div>
+              </div>
+            </div>
             <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p class="card-text"></p>
               <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-                </div>
-                <small class="text-muted">9 mins</small>
               </div>
             </div>
           </div>
         </div>
         <div class="col">
           <div class="card shadow-sm">
-            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-
-            <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-                </div>
-                <small class="text-muted">9 mins</small>
+            <div class="image-container">
+              <img class="card-img-top image-popup" src="img/" alt="" id="image-popup">
+              <div class="overlay">
+                <div class="text">Zoom in</div>
               </div>
             </div>
-          </div>
-        </div>
-
-        <div class="col">
-          <div class="card shadow-sm">
-            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-
             <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p class="card-text"></p>
               <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-                </div>
-                <small class="text-muted">9 mins</small>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col">
-          <div class="card shadow-sm">
-            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-
-            <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-                </div>
-                <small class="text-muted">9 mins</small>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col">
-          <div class="card shadow-sm">
-            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-
-            <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-                </div>
-                <small class="text-muted">9 mins</small>
               </div>
             </div>
           </div>
@@ -127,48 +75,180 @@
 
         <div class="col">
           <div class="card shadow-sm">
-            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-
+            <div class="image-container">
+              <img class="card-img-top image-popup" src="img/" alt="" id="image-popup">
+              <div class="overlay">
+                <div class="text">Zoom in</div>
+              </div>
+            </div>
             <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p class="card-text"></p>
               <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-                </div>
-                <small class="text-muted">9 mins</small>
               </div>
             </div>
           </div>
         </div>
         <div class="col">
           <div class="card shadow-sm">
-            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-
+            <div class="image-container">
+              <img class="card-img-top image-popup" src="img/" alt="" id="image-popup">
+              <div class="overlay">
+                <div class="text">Zoom in</div>
+              </div>
+            </div>
             <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p class="card-text"></p>
               <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-                </div>
-                <small class="text-muted">9 mins</small>
               </div>
             </div>
           </div>
         </div>
         <div class="col">
           <div class="card shadow-sm">
-            <svg class="bd-placeholder-img card-img-top" width="100%" height="225" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Placeholder: Thumbnail" preserveAspectRatio="xMidYMid slice" focusable="false"><title>Placeholder</title><rect width="100%" height="100%" fill="#55595c"/><text x="50%" y="50%" fill="#eceeef" dy=".3em">Thumbnail</text></svg>
-
+            <div class="image-container">
+              <img class="card-img-top image-popup" src="img/" alt="" id="image-popup">
+              <div class="overlay">
+                <div class="text">Zoom in</div>
+              </div>
+            </div>
             <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p class="card-text"></p>
               <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                  <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-                </div>
-                <small class="text-muted">9 mins</small>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card shadow-sm">
+            <div class="image-container">
+              <img class="card-img-top image-popup" src="img/" alt="" id="image-popup">
+              <div class="overlay">
+                <div class="text">Zoom in</div>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="card-text">.</p>
+              <div class="d-flex justify-content-between align-items-center">
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card shadow-sm">
+            <div class="image-container">
+              <img class="card-img-top image-popup" src="img/" alt="" id="image-popup">
+              <div class="overlay">
+                <div class="text">Zoom in</div>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="card-text"></p>
+              <div class="d-flex justify-content-between align-items-center">
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card shadow-sm">
+            <div class="image-container">
+              <img class="card-img-top image-popup" src="img/" alt="" id="image-popup">
+              <div class="overlay">
+                <div class="text">Zoom in</div>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="card-text"></p>
+              <div class="d-flex justify-content-between align-items-center">
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card shadow-sm">
+            <div class="image-container">
+              <img class="card-img-top image-popup" src="img/" alt="" id="image-popup">
+              <div class="overlay">
+                <div class="text">Zoom in</div>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="card-text"></p>
+              <div class="d-flex justify-content-between align-items-center">
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card shadow-sm">
+            <div class="image-container">
+              <img class="card-img-top image-popup" src="img/" alt="" id="image-popup">
+              <div class="overlay">
+                <div class="text">Zoom in</div>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="card-text"></p>
+              <div class="d-flex justify-content-between align-items-center">
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card shadow-sm">
+            <div class="image-container">
+              <img class="card-img-top image-popup" src="img/" alt="" id="image-popup">
+              <div class="overlay">
+                <div class="text">Zoom in</div>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="card-text"></p>
+              <div class="d-flex justify-content-between align-items-center">
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card shadow-sm">
+            <div class="image-container">
+              <img class="card-img-top image-popup" src="img/" alt="" id="image-popup">
+              <div class="overlay">
+                <div class="text">Zoom in</div>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="card-text"></p>
+              <div class="d-flex justify-content-between align-items-center">
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card shadow-sm">
+            <div class="image-container">
+              <img class="card-img-top image-popup" src="img/" alt="" id="image-popup">
+              <div class="overlay">
+                <div class="text">Zoom in</div>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="card-text"></p>
+              <div class="d-flex justify-content-between align-items-center">
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card shadow-sm">
+            <div class="image-container">
+              <img class="card-img-top image-popup" src="img/" alt="" id="image-popup">
+              <div class="overlay">
+                <div class="text">Zoom in</div>
+              </div>
+            </div>
+            <div class="card-body">
+              <p class="card-text"></p>
+              <div class="d-flex justify-content-between align-items-center">
               </div>
             </div>
           </div>
@@ -178,5 +258,52 @@
   </div>
 
     <?php include('footer.php'); ?>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script>
+    $(document).ready(function() {
+      const zoomInTexts = $('.text');
+      const popupContainer = $('<div id="popup-container"></div>');
+      const popupImage = $('<img id="popup-image">');
+      popupContainer.append(popupImage);
+      $('body').append(popupContainer);
+
+      function openPopup() {
+        const clickedZoomInText = $(this);
+        const clickedImage = clickedZoomInText.parent().parent().find('.image-popup');
+        popupImage.attr('src', clickedImage.attr('src'));
+        popupContainer.css('display', 'flex');
+
+        $(document).off('click');
+        setTimeout(function() {
+          $(document).on('click', function(event) {
+            if (!$(event.target).closest('#popup-container').length) {
+              popupContainer.css('display', 'none');
+            }
+          });
+          popupContainer.on('click', function(event) {
+            event.stopPropagation();
+            $(document).off('click');
+          });
+        }, 100);
+      }
+
+
+      zoomInTexts.on('click', openPopup);
+
+      popupContainer.on('click', function(event) {
+        event.stopPropagation();
+      });
+
+      $(document).on('click', function() {
+        popupContainer.css('display', 'none');
+      });
+
+      $(document).on('click', function(event) {
+        if (!$(event.target).closest('#popup-container').length) {
+          popupContainer.css('display', 'none');
+        }
+      });
+    });
+  </script>
 </body>
 </html>

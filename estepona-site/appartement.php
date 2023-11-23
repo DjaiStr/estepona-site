@@ -13,12 +13,13 @@
 
   <section class="text-center container-fluid">
     <div class="row py-lg-5">
-      <div class="col-lg-6 col-md-8 mx-auto">
+      <div class="col-lg-10 col-md-4 mx-auto">
         <h1 class="fw-light">Het appartement</h1>
-        <p class="lead text-muted">Something short and leading about the collection below—its contents, the creator, etc. Make it short and sweet, but not t
-          oo short so folks don’t simply skip over it entirely.Something short and leading about the collection below—its contents, the creator,
-          etc. Make it short and sweet, but not too short so folks don’t simply skip over it entirely.Something short and leading about
-          the collection below—its contents, the creator, etc. Make it short and sweet, but not too short so folks don’t simply skip ove
+        <p class="lead text-muted">Met een comfortabele  woonkamer biedt deze accommodatie ruimte voor maximaal 4 personen, waardoor het de perfecte plek is om te genieten van een vakantie met familie of vrienden.
+Dit is een nieuw gebouwde buurt(Las Mesas) gesitueerd iets boven de haven van Estepona. De oude binnenstad is ter voet te bereiken. Er zijn voldoende aansluitingen voor het openbaarvervoer. Zo is het niet nodig om een auto te huren als je bijvoorbeeld vliegt op Malaga airport.
+<h4>De ruimte</h4>
+Het appartement ligt op de begane grond en heeft een ruime en lichte slaapkamer met tweepersoonsbed en een eigen badkamer en een slaapkamer met 2 enkele bedden(boxspring) die gemakkeliijk aan elkaar te klikken zijn en een aparte badkamer. Een gezellige woon-eetkamer met tv, een volledig uitgeruste open keuken en een wasruimte met wasmachine en waslijn (droger niet inbegrepen). Het charmante tuinterras nodigt je uit om je buiten te ontspannen, terwijl de garage in het gebouw veilige en handige eigen parkeergelegenheid biedt.
+ 
         </p>
       </div>
     </div>
@@ -37,7 +38,7 @@
               </div>
             </div>
             <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p class="card-text">Zicht van het balkon vanaf de woonkamer</p>
               <div class="d-flex justify-content-between align-items-center">
               </div>
             </div>
@@ -52,7 +53,7 @@
               </div>
             </div>
             <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p class="card-text">Balkon terras</p>
               <div class="d-flex justify-content-between align-items-center">
               </div>
             </div>
@@ -67,7 +68,7 @@
               </div>
             </div>
             <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p class="card-text">Zicht vanaf balkon</p>
               <div class="d-flex justify-content-between align-items-center">
               </div>
             </div>
@@ -83,7 +84,7 @@
               </div>
             </div>
             <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p class="card-text">Woonkamer</p>
               <div class="d-flex justify-content-between align-items-center">
               </div>
             </div>
@@ -98,7 +99,7 @@
               </div>
             </div>
             <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p class="card-text">Woonkamer de ingang zijde</p>
               <div class="d-flex justify-content-between align-items-center">
               </div>
             </div>
@@ -113,7 +114,7 @@
               </div>
             </div>
             <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p class="card-text">Keuken/woonkamer</p>
               <div class="d-flex justify-content-between align-items-center">
               </div>
             </div>
@@ -128,7 +129,7 @@
               </div>
             </div>
             <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p class="card-text">Keuken</p>
               <div class="d-flex justify-content-between align-items-center">
               </div>
             </div>
@@ -143,7 +144,7 @@
               </div>
             </div>
             <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p class="card-text">Gang naar de slaapkamers en badkamers.</p>
               <div class="d-flex justify-content-between align-items-center">
               </div>
             </div>
@@ -158,7 +159,7 @@
               </div>
             </div>
             <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p class="card-text">Slaapkamer 1</p>
               <div class="d-flex justify-content-between align-items-center">
               </div>
             </div>
@@ -173,7 +174,7 @@
               </div>
             </div>
             <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p class="card-text">Slaapkamer 2</p>
               <div class="d-flex justify-content-between align-items-center">
               </div>
             </div>
@@ -188,7 +189,7 @@
               </div>
             </div>
             <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p class="card-text">Badkamer 1</p>
               <div class="d-flex justify-content-between align-items-center">
               </div>
             </div>
@@ -203,7 +204,7 @@
               </div>
             </div>
             <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p class="card-text">Badkamer 2</p>
               <div class="d-flex justify-content-between align-items-center">
               </div>
             </div>
@@ -218,7 +219,7 @@
               </div>
             </div>
             <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p class="card-text">De gym van het appartementencomplex</p>
               <div class="d-flex justify-content-between align-items-center">
               </div>
             </div>
@@ -233,7 +234,7 @@
               </div>
             </div>
             <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p class="card-text">Binnen zwembad</p>
               <div class="d-flex justify-content-between align-items-center">
               </div>
             </div>
@@ -248,7 +249,7 @@
               </div>
             </div>
             <div class="card-body">
-              <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+              <p class="card-text">Buiten zwembad</p>
               <div class="d-flex justify-content-between align-items-center">
               </div>
             </div>
