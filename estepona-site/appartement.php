@@ -32,7 +32,7 @@ Het appartement ligt op de begane grond en heeft een ruime en lichte slaapkamer 
         <div class="col">
           <div class="card shadow-sm">
             <div class="image-container">
-              <img class="card-img-top image-popup" src="img/vanbinnen-buiten.jpg" alt="vanbinnenbuiten" id="image-popup">
+              <img class="card-img-top image-popup" src="img/vanbinnen-buiten.jpg" alt=" appartement Las Hesas Estepona woonkamer balkon" id="image-popup">
               <div class="overlay">
                 <div class="text" id="zoom-in-text-1">Zoom in</div>
               </div>
@@ -47,7 +47,7 @@ Het appartement ligt op de begane grond en heeft een ruime en lichte slaapkamer 
         <div class="col">
           <div class="card shadow-sm">
             <div class="image-container">
-              <img class="card-img-top image-popup" src="img/terras.jpg" alt="terras" id="image-popup">
+              <img class="card-img-top image-popup" src="img/terras.jpg" alt="appartement Las Hesas Estepona balkon terras" id="image-popup">
               <div class="overlay">
                 <div class="text">Zoom in</div>
               </div>
@@ -62,7 +62,7 @@ Het appartement ligt op de begane grond en heeft een ruime en lichte slaapkamer 
         <div class="col">
           <div class="card shadow-sm">
             <div class="image-container">
-              <img class="card-img-top image-popup" src="img/terras-zicht.jpg" alt="zicht" id="image-popup">
+              <img class="card-img-top image-popup" src="img/terras-zicht.jpg" alt=" appartement Las Hesas Estepona balkon uitzicht" id="image-popup">
               <div class="overlay">
                 <div class="text">Zoom in</div>
               </div>
@@ -78,7 +78,7 @@ Het appartement ligt op de begane grond en heeft een ruime en lichte slaapkamer 
         <div class="col">
           <div class="card shadow-sm">
             <div class="image-container">
-              <img class="card-img-top image-popup" src="img/woonkamer.jpg" alt="woonkamer" id="image-popup">
+              <img class="card-img-top image-popup" src="img/woonkamer.jpg" alt="appartement Las Hesas Estepona woonkamer" id="image-popup">
               <div class="overlay">
                 <div class="text">Zoom in</div>
               </div>
@@ -93,7 +93,7 @@ Het appartement ligt op de begane grond en heeft een ruime en lichte slaapkamer 
         <div class="col">
           <div class="card shadow-sm">
             <div class="image-container">
-              <img class="card-img-top image-popup" src="img/tafel.jpg" alt="tafel" id="image-popup">
+              <img class="card-img-top image-popup" src="img/tafel.jpg" alt=" appartement Las Hesas Estepona woonkamer tafel" id="image-popup">
               <div class="overlay">
                 <div class="text">Zoom in</div>
               </div>
@@ -108,7 +108,7 @@ Het appartement ligt op de begane grond en heeft een ruime en lichte slaapkamer 
         <div class="col">
           <div class="card shadow-sm">
             <div class="image-container">
-              <img class="card-img-top image-popup" src="img/keukenwoon.jpg" alt="keukenwoon" id="image-popup">
+              <img class="card-img-top image-popup" src="img/keukenwoon.jpg" alt=" appartement Las Hesas Estepona woonkamer keuken" id="image-popup">
               <div class="overlay">
                 <div class="text">Zoom in</div>
               </div>
@@ -123,7 +123,7 @@ Het appartement ligt op de begane grond en heeft een ruime en lichte slaapkamer 
         <div class="col">
           <div class="card shadow-sm">
             <div class="image-container">
-              <img class="card-img-top image-popup" src="img/keuken.jpg" alt="keuken" id="image-popup">
+              <img class="card-img-top image-popup" src="img/keuken.jpg" alt=" appartement Las Hesas Estepona keuken" id="image-popup">
               <div class="overlay">
                 <div class="text">Zoom in</div>
               </div>
@@ -138,7 +138,7 @@ Het appartement ligt op de begane grond en heeft een ruime en lichte slaapkamer 
         <div class="col">
           <div class="card shadow-sm">
             <div class="image-container">
-              <img class="card-img-top image-popup" src="img/gang.jpg" alt="gang" id="image-popup">
+              <img class="card-img-top image-popup" src="img/gang.jpg" alt=" appartement Las Hesas Estepona woonkamer gang" id="image-popup">
               <div class="overlay">
                 <div class="text">Zoom in</div>
               </div>
@@ -153,7 +153,7 @@ Het appartement ligt op de begane grond en heeft een ruime en lichte slaapkamer 
         <div class="col">
           <div class="card shadow-sm">
             <div class="image-container">
-              <img class="card-img-top image-popup" src="img/bed.jpg" alt="bed" id="image-popup">
+              <img class="card-img-top image-popup" src="img/bed.jpg" alt="appartement Las Hesas Estepona slaapkamer" id="image-popup">
               <div class="overlay">
                 <div class="text">Zoom in</div>
               </div>
@@ -168,7 +168,7 @@ Het appartement ligt op de begane grond en heeft een ruime en lichte slaapkamer 
         <div class="col">
           <div class="card shadow-sm">
             <div class="image-container">
-              <img class="card-img-top image-popup" src="img/bed2.jpg" alt="bed2" id="image-popup">
+              <img class="card-img-top image-popup" src="img/bed2.jpg" alt=" appartement Las Hesas Estepona slaapkamer 2" id="image-popup">
               <div class="overlay">
                 <div class="text">Zoom in</div>
               </div>
@@ -183,7 +183,7 @@ Het appartement ligt op de begane grond en heeft een ruime en lichte slaapkamer 
         <div class="col">
           <div class="card shadow-sm">
             <div class="image-container">
-              <img class="card-img-top image-popup" src="img/badkamer.jpg" alt="badkamer" id="image-popup">
+              <img class="card-img-top image-popup" src="img/badkamer.jpg" alt="appartement Las Hesas Estepona badkamer" id="image-popup">
               <div class="overlay">
                 <div class="text">Zoom in</div>
               </div>
@@ -198,7 +198,7 @@ Het appartement ligt op de begane grond en heeft een ruime en lichte slaapkamer 
         <div class="col">
           <div class="card shadow-sm">
             <div class="image-container">
-              <img class="card-img-top image-popup" src="img/badkamer2.jpg" alt="badkamer2" id="image-popup">
+              <img class="card-img-top image-popup" src="img/badkamer2.jpg" alt=" appartement Las Hesas Estepona badkamer2" id="image-popup">
               <div class="overlay">
                 <div class="text">Zoom in</div>
               </div>
@@ -213,7 +213,7 @@ Het appartement ligt op de begane grond en heeft een ruime en lichte slaapkamer 
         <div class="col">
           <div class="card shadow-sm">
             <div class="image-container">
-              <img class="card-img-top image-popup" src="img/gym.jpg" alt="gym" id="image-popup">
+              <img class="card-img-top image-popup" src="img/gym.jpg" alt="appartement Las Hesas Estepona gym" id="image-popup">
               <div class="overlay">
                 <div class="text">Zoom in</div>
               </div>
@@ -228,7 +228,7 @@ Het appartement ligt op de begane grond en heeft een ruime en lichte slaapkamer 
         <div class="col">
           <div class="card shadow-sm">
             <div class="image-container">
-              <img class="card-img-top image-popup" src="img/binnen-zwembad.jpg" alt="binnenzwembad" id="image-popup">
+              <img class="card-img-top image-popup" src="img/binnen-zwembad.jpg" alt="appartement Las Hesas Estepona binnenzwembad" id="image-popup">
               <div class="overlay">
                 <div class="text">Zoom in</div>
               </div>
@@ -243,7 +243,7 @@ Het appartement ligt op de begane grond en heeft een ruime en lichte slaapkamer 
         <div class="col">
           <div class="card shadow-sm">
             <div class="image-container">
-              <img class="card-img-top image-popup" src="img/buiten-zwembad-kopie.jpg" alt="binnenzwembad" id="image-popup">
+              <img class="card-img-top image-popup" src="img/buiten-zwembad-kopie.jpg" alt="appartement Las Hesas Estepona binnenzwembad" id="image-popup">
               <div class="overlay">
                 <div class="text">Zoom in</div>
               </div>
